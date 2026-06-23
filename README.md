@@ -1,4 +1,4 @@
-# Duplicate Bug Detector - Final Submission
+# Duplicate Bug Detector 
 
 This folder contains the final notebook and supporting files for the Duplicate Bug Detector project.
 
