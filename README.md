@@ -6,7 +6,7 @@ This folder contains the final notebook and supporting files for the Duplicate B
 
 Open and run:
 
-`vasantha_Duplicate_Bug_Detector_final_submission.ipynb`
+`vasantha_Duplicate_Bug_Detector.ipynb`
 
 The notebook builds a duplicate-bug detector that compares a new bug report against existing GitHub issues using both the bug title and the bug description.
 
